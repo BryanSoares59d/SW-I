@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    justify-content: center; 
+    padding-top: 5%;
+    padding-bottom: 3%;
+    background-image: linear-gradient(45deg, purple, royalblue);
+    border-radius: 10px;
+}
+
+.custom-arrow {
+    font-size: 40px; /* Ajuste o tamanho conforme necessário */
+    font-weight: bold; /* Torna a seta mais grossa */
+    transform: scale(1.5); /* Aumenta a espessura do ícone */}
+
+.form-label{
+    color: black;
+    font-size: 20px;
+}
+
+.btn{
+    width: 100%;
+    font-size: 20px;
+}
+
+h1{
+    color: white;
+    font-size: 25px;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    text-align: center;
+    background-color: black;
+    border-radius: 10px;
+    width: 68.8%;
+    margin-left: 15.5%;
+    margin-top: 7%;
+}
+
+footer{
+    text-align: center;
+}
